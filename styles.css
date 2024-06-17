@@ -1,0 +1,37 @@
+* {
+    background-color: antiquewhite;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    color: black;
+    width: 450px;
+    line-height: 1.5;
+}
+body h1 {
+    font-weight: 800;
+    text-align: center;
+}
+img     {
+    width: 300;
+    height: auto;
+    border-width: 3px;
+    border-color: brown;
+}
+.ingredients {
+    background-color: burlywood;
+    
+}
+.ingredients > li {
+    
+    padding: 3px;
+
+}
+.attribute {
+    font-size: x-small;
+    text-align: center;
+    font-style: italic;
+}
+.instructions {
+    background-color: burlywood;
+    
+}
